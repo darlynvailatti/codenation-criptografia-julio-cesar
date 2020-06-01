@@ -1,0 +1,16 @@
+{
+  "name": "criptografia-julio-cesar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darlyn Vailatti",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "form-data": "^3.0.0",
+    "sha1": "^1.1.1"
+  }
+}
